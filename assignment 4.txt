@@ -1,0 +1,87 @@
+BDD is a software development process that evolved from TDD. It emphasizes collaboration between developers, tester and business stakeholders to creat an Application. 
+Methodology using Behaviour Driven Development (BDD).
+User Story:
+Format- User story are written in format as the user explain the about the application.
+Purpose- User describe all the requirement feature in the application.
+ 
+Example: User want to develop the chat application so he say that he want to be able to interact with other users through a chat application, So that he can send the message and receive the message.
+Scenario:
+Sending message-
+ Logged in to chat application
+Choose a user to chat with like WhatsApp
+Convey message like “Hello”
+Send the message
+ 
+Receiving Message-
+Logged in the chat application
+ Receive a message from user
+ See the message
+Read the message
+ Send the replay if it required.
+Methodology using Test Driven Development:
+Write a Test:
+Goal- Write a test case for a new function of feature.
+Output- A test case specifies the desired functionality.
+Guideline-The test should be simple, specific, and focused on one aspect of the functionality. Initially, the test will fail because the functionality in not yes implemented.
+ 
+def test_send_message();
+chat=ChatApplication()
+sender= User
+receiver= User
+message= “Hello”
+chat.send_message(sender, receive, message)
+ 
+Run the Test:
+The test fails because the add function not exist.
+ 
+Write the code:
+Function sendMessage(sender, receiver, message);
+Add message to receiver inbox
+ 
+or
+class ChatApplication:
+def send_message(sender, receiver, message);
+receiver.receive_message(“Hello”)
+ 
+classs user
+def init(name);
+name=vivek
+message=Hello
+ 
+def receive_message= (Hello)
+message.append(Hello)
+ 
+Run All Test:
+The Test passes.
+ 
+Refactor the code:
+Goal- Enhance code quality
+Output-Cleaner, More systematic code
+Guideline-Enhance readability, Remove redundancy.
+Repeat:
+Write additional tests for new feature and repeat the cycle
+ 
+Methodology For Feature Driven Development:-
+Domain Object Modelling:
+Creat a Chat application representing key entities as Sender, Receiver and Messages.
+User
+Message
+Group chat
+ 
+Feature List:
+User Authentication
+Sending Message
+Receiver Message
+Group Chat
+ 
+Plan by Feature:
+Start with basics features like user authentication, sending and receiving messages.
+Progress to more advance feature like Multimedia support, Emoji etc.
+ 
+Design by Feature: (Design each feature focusing on its specific requirement and user interface and Define interface, data structure and integration.)
+Design the interface for composing and sending messages.
+Define the message formant and data structure for storing message.
+ 
+Build by Feature:
+Implement user registration and login function.
+Integrate user authentication with other feature like sending and receiving message.

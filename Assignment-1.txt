@@ -1,0 +1,39 @@
+1. Requirements Gathering:
+Identify stakeholders' needs and define project scope.
+Gather and analyze requirements to ensure they are clear, complete, and feasible.
+·  Importance: Establishes the foundation of the project by understanding stakeholders' needs.
+·  Interconnection: Informs subsequent phases, guiding design and development efforts
+2. Defining:
+Develop a comprehensive project plan outlining tasks, resources, timelines, and budgets.
+Define project goals, milestones, and deliverables.
+·  Importance: Sets the roadmap for the project, ensuring alignment with goals and resources.
+·  Interconnection: Directs the design and development process, shaping the project   trajectory.
+3. Design:
+Create a detailed design of the software system based on gathered requirements.
+Design architecture, user interface, database schema, and other system components.
+·  Importance: Translates requirements into a blueprint for the software solution.
+·  Interconnection: Guides implementation by providing a detailed framework for development.
+4. Implementation (Coding):
+Write code according to the design specifications.
+Conduct unit testing to ensure individual components work as expected.
+·  Importance: Converts design specifications into working software.
+·  Interconnection: Built upon requirements and design, forming the tangible product.
+
+
+
+
+5. Testing:
+Execute various tests (unit, integration, system, acceptance) to identify defects and verify software functionality.
+Ensure the software meets quality standards and requirements.
+·  Importance: Validates software functionality and identifies defects.
+·  Interconnection: Feedback loop with design and implementation to refine and improve the product.
+6. Deployment:
+Release the software to the production environment.
+Install, configure, and deploy the system to end-users.
+·  Importance: Introduces the software to users in the production environment.
+·  Interconnection: Culmination of previous phases, ensuring readiness for real-world use.
+7. Maintenance:
+Provide ongoing support, maintenance, and updates to the software.
+Address user feedback, fix bugs, and implement enhancements.
+·  Importance: Sustains the software's functionality and addresses evolving needs.
+·  Interconnection: Continuous improvement loop, integrating user feedback and addressing issues.

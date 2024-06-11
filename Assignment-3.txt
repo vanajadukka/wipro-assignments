@@ -1,0 +1,50 @@
+1. Waterfall Model
+Advantages:
+- Clarity and Structure: Clear, sequential phases make it ideal for stable, well-defined requirements.
+- Documentation Emphasis: Extensive documentation aids traceability and maintenance, crucial for regulatory compliance.
+
+Disadvantages:
+- Limited Flexibility: Hard to make changes after a phase is completed.
+- Late Issue Discovery: Problems often surface late, leading to costly rework.
+
+Applicability:
+- Infrastructure Projects: Bridges, roads, buildings.
+- Manufacturing Processes: Design and implementation.
+
+2. Agile Model
+Advantages:
+- Flexibility and Adaptability: Iterative approach suits evolving requirements.
+- Customer Collaboration: Regular feedback ensures the product meets user needs.
+
+Disadvantages:
+- Documentation Challenges: Less focus on documentation, problematic for compliance-heavy projects.
+- Resource Intensive: High collaboration demands more resources.
+
+Applicability:
+- Software Development: Control systems, embedded systems.
+- Prototyping and R&D: Iterative development and experimentation.
+
+ 3. Spiral Model
+Advantages:
+- Risk Management: Continuous risk analysis and mitigation.
+- Iterative Development: Allows refinement of complex designs.
+
+Disadvantages:
+- Complexity and Expertise: Needs experienced management and technical skills.
+- Time and Resource Intensive: Longer cycles and more resources needed.
+
+Applicability:
+- Aerospace and Defense: High complexity, long cycles, stringent risk management.
+- Medical Devices: Safety, reliability, and regulatory compliance.
+
+ 4. V-Model
+Advantages:
+- Testing Emphasis: Early detection of defects through continuous testing.
+- Clear Verification and Validation: Defined milestones and quality checks.
+
+Disadvantages:
+- Sequential Nature: Hard to implement changes later.
+- Documentation Overhead: Extensive upfront planning and documentation.
+
+Applicability:
+- Regulated Industries: Healthcare, automotive, aerospace with rigorous testing and compliance needs.
